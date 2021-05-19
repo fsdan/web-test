@@ -2,10 +2,10 @@
 
 1. We want to see how **you** code, so do your best to recreate test.jpg in HTML (or php), CSS, and JavaScript
 2. Make sure the page is responsive
-3. Embed your favourite video - music or otherwise
+3. Embed your favourite video - music or otherwise, something that speaks about who you are.
 4. Spend no more than 4 hours on the test.
 5. Use a Lorem Ipsum API to populate the marked section in test.jpg (e.g. https://loripsum.net/)
-6. Submit within 48 hours
+6. Submit within 48 hours (ZIP attachment to email, Hosted web server, Git Repo)
 
 ## Test: Optionals
 
